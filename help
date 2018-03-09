@@ -1,0 +1,42 @@
+chmod +x test01.py
+
+ ./test01.py
+
+#!/usr/bin/env python3
+
+imp.reload(N)
+
+save.image(file_name)
+load(file_name)
+rm(list = ls())
+
+
+Александр
+916 718 42 43
+Кузанский - 2т. - 800
+Лейбниц - 4т. - 4000
+Геродот - 600
+Фукидид - 600
+https://www.avito.ru/moskva/knigi_i_zhurnaly/knigi_po_filosofii_901432864
+
+Юрий
+985 179 40 91
+Древнекитайская философия - 2т. - 1500
+Лейбниц - 4т. - 3500
+https://www.avito.ru/moskva/knigi_i_zhurnaly/filosofskoe_nasledie_776132496
+
+Кириллица
+909 643 02 66
+Лаэртский - О жизни, учениях... - 600
+https://www.avito.ru/moskva/knigi_i_zhurnaly/diogen_laertskiy._o_zhizni_ucheniyah_i_izrecheniyah_1016644152
+
+Ольга
+903 172 53 13
+Индийская философия - Начальный период - 600
+https://www.avito.ru/moskva/knigi_i_zhurnaly/drevneindiyskaya_filosofiya._nachalnyy_period_925402284
+
+vtb-books
+916 748 86 21
+Кессиди - Гераклит - 500
+https://www.avito.ru/moskva/knigi_i_zhurnaly/kessidi_f.h._geraklit_1197561394
+
